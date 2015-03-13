@@ -24,7 +24,8 @@ public class Payment {
 	private ClientData clientData;
 
 	private Money amount;
-
+	
+	@SuppressWarnings("unused")
 	private Id aggregateId;
 
 
