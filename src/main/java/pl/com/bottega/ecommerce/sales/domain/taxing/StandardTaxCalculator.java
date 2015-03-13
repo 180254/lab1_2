@@ -1,7 +1,8 @@
-package pl.com.bottega.ecommerce.sales.domain.invoicing;
+package pl.com.bottega.ecommerce.sales.domain.taxing;
 
 import java.math.BigDecimal;
 
+import pl.com.bottega.ecommerce.sales.domain.invoicing.RequestItem;
 import pl.com.bottega.ecommerce.sharedkernel.Money;
 
 public class StandardTaxCalculator implements TaxCalculator {

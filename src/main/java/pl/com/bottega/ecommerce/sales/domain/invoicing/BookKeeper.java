@@ -16,6 +16,7 @@
 package pl.com.bottega.ecommerce.sales.domain.invoicing;
 
 import pl.com.bottega.ecommerce.canonicalmodel.publishedlanguage.Id;
+import pl.com.bottega.ecommerce.sales.domain.taxing.TaxCalculator;
 import pl.com.bottega.ecommerce.sharedkernel.Money;
 
 public class BookKeeper {
